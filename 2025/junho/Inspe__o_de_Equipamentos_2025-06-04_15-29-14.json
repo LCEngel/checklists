@@ -1,0 +1,400 @@
+{
+  "metadata": {
+    "title": "Inspeção de Equipamentos",
+    "createdAt": "2025-06-04T18:29:14.959Z",
+    "deviceInfo": "Mozilla/5.0 (Linux; Android 12; Xiaomi 12) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.35 Mobile Safari/537.36",
+    "appVersion": "1.0.0"
+  },
+  "checklist": {
+    "title": "Inspeção de Equipamentos",
+    "checklistDate": "04/06/2025, 15:29:14",
+    "items": [
+      {
+        "equipment": "Operador Executante",
+        "text": "O sistema está alinhado e pronto para a partida da CR2?",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR DISPONIBILIDADE DE ÁGUA DE FÁBRICA",
+        "text": "Solicitar à Operação de Área que inicie no campo a execução do checklist: 01B - Utilidades",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR DISPONIBILIDADE DE ÁGUA DE FÁBRICA",
+        "text": "CHECAR COM O OPERADOR DE ÁREA: A pressão de água de fábrica indicada no 771-PI-4245 está OK?",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR DISPONIBILIDADE DE ÁGUA DE FÁBRICA",
+        "text": "CHECAR COM O OPERADOR DE ÁREA: O alinhamento da bomba 771-34-370 foi concluído?",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR DISPONIBILIDADE DE ÁGUA DE FÁBRICA",
+        "text": "Tela 1.8: A bomba booster 771-34-370 está sem falhas ativas?",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR DISPONIBILIDADE DE ÁGUA DE FÁBRICA",
+        "text": "A válvula automática 771-HS-1182 do tanque está OK? (Teste abre/fecha). SOLICITAR AO OPERADOR DE ÁREA QUE CONFIRME NO CAM",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR DISPONIBILIDADE DE ÁGUA DE FÁBRICA",
+        "text": "CHECAR COM O OPERADOR DE ÁREA:  O dreno 771-45-1433 do tanque de água de reserva 771-21-371 está FECHADO?",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR DISPONIBILIDADE DE ÁGUA DE FÁBRICA",
+        "text": "Em caso de ser realizada a lavagem do tanque 771-21-371 - Tela 1.8: Lavar o tanque de água reserva 771-21-371 através da",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR DISPONIBILIDADE DE ÁGUA DE FÁBRICA",
+        "text": "Em caso de ser realizada a lavagem do tanque 771-21-371 - CHECAR COM O OPERADOR DE ÁREA:  O tanque 771-21-371 foi drenado",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR DISPONIBILIDADE DE ÁGUA DE FÁBRICA",
+        "text": "Em caso de ser realizada a lavagem do tanque 771-21-371 - Tela 1.8: Encher o tanque 771-21-371 até o nível de 90%.",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR DISPONIBILIDADE DE ÁGUA DE FÁBRICA",
+        "text": "Tela 1.8: A malha 771-HS-1182 está em modo AUTO?",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR DISPONIBILIDADE DE ÁGUA DE FÁBRICA",
+        "text": "Tela 1.5: A malha 771-HS-1180 está em modo AUTO?",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR DISPONIBILIDADE DE ÁGUA DE FÁBRICA",
+        "text": "Tela 1.8: O tanque de água reserva está cheio de água? (checar pelo 771-LI-1183).",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR DISPONIBILIDADE DE ÁGUA DE FÁBRICA",
+        "text": "CHECAR COM O OPERADOR DE ÁREA: O alinhamento do tanque de água 771-21-371 reserva foi concluído?",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR A DISPONIBILIDADE DE ÁGUA DE SELAGEM",
+        "text": "CHECAR COM O OPERADOR DE ÁREA: O alinhamento do tanque de água de selagem 771-21-373 foi concluído?",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR A DISPONIBILIDADE DE ÁGUA DE SELAGEM",
+        "text": "Tela 1.10: Fluxo de água de selagem no 771-FI-1187 OK?",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR A DISPONIBILIDADE DE ÁGUA DE SELAGEM",
+        "text": "Tela 1.10: O tanque de água de selagem 771-21-373 está cheio? (checar 771-LIC-1188).",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR A DISPONIBILIDADE DE ÁGUA DE SELAGEM",
+        "text": "CHECAR COM O OPERADOR DE ÁREA: A válvula 771-HV-1188 de suprimento de água de selagem ao tanque 771-21-373 está operando",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR A DISPONIBILIDADE DE ÁGUA DE SELAGEM",
+        "text": "CHECAR COM O OPERADOR DE ÁREA: Bomba de retorno de água de selagem 771-34-374 alinhada e em condições de partida?",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR A DISPONIBILIDADE DE ÁGUA DE SELAGEM",
+        "text": "CHECAR COM O OPERADOR DE ÁREA:  As válvulas 771-HV-1416 e 1417 da bomba 771-34-374 estão operando OK?",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR A DISPONIBILIDADE DE ÁGUA DE SELAGEM",
+        "text": "Tela 1.10: Colocar a 771-LIC-1188 em AUTO para controle de nível do tanque de água de selagem 771-21-373.",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR A DISPONIBILIDADE DE ÁGUA DE SELAGEM",
+        "text": "Tela 1.10: Revisar os fluxostatos das bombas da CR2. Fluxostatos OK?",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR A DISPONIBILIDADE DE ÁGUA GELADA PARA AS SALAS ELÉTRICAS",
+        "text": "CHECAR COM OPERADOR DE ENERGIA: Água de resfriamento disponível nas linhas de distribuição?",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR A DISPONIBILIDADE DE ÁGUA GELADA PARA AS SALAS ELÉTRICAS",
+        "text": "Tela 1.8: Confirmar fluxo de água de resfriamento no 771-FI-1186.",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR A DISPONIBILIDADE DE ÁGUA GELADA PARA AS SALAS ELÉTRICAS",
+        "text": "CHECAR COM OPERADOR DE ENERGIA: Bomba de água gelada 779-34-007 alinhada e OK?",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR A DISPONIBILIDADE DE ÁGUA GELADA PARA AS SALAS ELÉTRICAS",
+        "text": "Tela 1.10: Vazão de água gelada para as salas elétricas OK? (monitorar através do 771-FI-1186).",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR A DISPONIBILIDADE DE ÁGUA GELADA PARA AS SALAS ELÉTRICAS",
+        "text": "CHECAR COM OPERADOR DE ÁREA: Válvulas manuais 771-45-1422 e 1423 estão ABERTAS?",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR A DISPONIBILIDADE DE ÁGUA POTÁVEL E CHUVEIROS DE EMERGÊNCIA",
+        "text": "CHECAR COM OPERADOR DA ETA: Água potável se encontra disponível para os chuveiros de emergência?",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR A DISPONIBILIDADE DE ÁGUA POTÁVEL E CHUVEIROS DE EMERGÊNCIA",
+        "text": "CHECAR COM O OPERADOR DE ÁREA: Todos os sete chuveiros de emergência estão prontos para operar?",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR A DISPONIBILIDADE DE ÁGUA POTÁVEL E CHUVEIROS DE EMERGÊNCIA",
+        "text": "CHECAR COM O OPERADOR DE ÁREA: Alinhada válvula manual geral de WDR para chuveiros de emergência?",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR A DISPONIBILIDADE DE ÁGUA POTÁVEL E CHUVEIROS DE EMERGÊNCIA",
+        "text": "COORDENAR O TESTE COM O OP. DE ÁREA:  Ao se abrir na área qualquer um dos chuveiros de emergência, verifica-se indicação",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR A DISPONIBILIDADE DE ÁGUA DE INCÊNDIO",
+        "text": "Tela 1.8: A água de incêndio está disponível nas linhas de distribuição?",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR A DISPONIBILIDADE DE ÁGUA DE INCÊNDIO",
+        "text": "CHECAR COM O OPERADOR DE ÁREA:  A válvula 771-HS-1180 de suprimento de água de incêndio para os tanques dissolvedor 771-",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR A DISPONIBILIDADE DE ÁGUA DE INCÊNDIO",
+        "text": "CHECAR COM O OPERADOR DE ÁREA: A bomba booster de água de incêndio 771-34-376 está devidamente alinhada e em condições d",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR A DISPONIBILIDADE DE ÁGUA DE INCÊNDIO",
+        "text": "Tela 1.8: Bomba booster de água de incêndio 771-34-376 sem falhas ativas no SDCD?",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR A DISPONIBILIDADE DE ÁGUA DE INCÊNDIO",
+        "text": "CHECAR COM O OPERADOR DE ÁREA:  Tanque de balanceamento de pressão 771-21-377 devidamente alinhado?",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR A DISPONIBILIDADE DE ÁGUA DE INCÊNDIO",
+        "text": "CHECAR COM O OPERADOR DE ÁREA: Linhas de água de incêndio desaeradas?",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR A DISPONIBILIDADE DE ÁGUA DE INCÊNDIO",
+        "text": "Tela 1.8: Pressão da água de incêndio no 771-PI-1214 em torno de 12 kgf/cm2?",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR A DISPONIBILIDADE DE AR DE INSTRUMENTO",
+        "text": "CHECAR COM OPERADOR DE ENERGIA: Ar de instrumento disponível para a CR2?",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR A DISPONIBILIDADE DE AR DE INSTRUMENTO",
+        "text": "CHECAR COM O OPERADOR DE ÁREA: O recebedor de ar de instrumento 771-21-378 está corretamente alinhado?",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR A DISPONIBILIDADE DE AR DE INSTRUMENTO",
+        "text": "CHECAR COM O OPERADOR DE ÁREA: Válvulas de ar de instrumento para distribuição e para queimadores de partida alinhadas?",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR A DISPONIBILIDADE DE AR DE INSTRUMENTO",
+        "text": "Tela 1.8: Válvula automática 771-HV-1418 de entrada de ar de instrumento para distribuição à caldeira ABERTA?",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR A DISPONIBILIDADE DE AR DE INSTRUMENTO",
+        "text": "Tela 1.8: Válvula automática 771-HV-1421 de saída de ar de instrumento da distribuição à caldeira ABERTA?",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR A DISPONIBILIDADE DE AR DE INSTRUMENTO",
+        "text": "Tela 1.8: Válvula de emergência 771-HV-1419 do sistema de distribuição de ar de instrumento à caldeira FECHADA?",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR A DISPONIBILIDADE DE AR DE INSTRUMENTO",
+        "text": "Tela 1.8: Monitorar a pressão e a vazão de ar de instrumento para a CR2  771-FI-1218 e 771-PI-1219.  A pressão se mantém",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR A DISPONIBILIDADE DE AR DE SERVIÇO",
+        "text": "CHECAR COM O OPERADOR DE ÁREA: Alinhado o sistema de ar de serviço?",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      },
+      {
+        "equipment": "CHECAR A DISPONIBILIDADE DE AR DE SERVIÇO",
+        "text": "Tela 1.8: Monitorar a pressão e a vazão de ar de serviço para a CR2  771-FI-1216 e 771-PI-1217.  A pressão e vazão de ar",
+        "status": "",
+        "observation": "",
+        "sapNumber": "",
+        "sapStatus": ""
+      }
+    ],
+    "date": "2025-06-04T18:29:14.957Z",
+    "saveDateTime": "04/06/2025, 15:29:14",
+    "folderId": "root",
+    "itemCount": 47,
+    "statistics": {
+      "total": 47,
+      "ok": 0,
+      "nc": 0,
+      "na": 0
+    }
+  }
+}
