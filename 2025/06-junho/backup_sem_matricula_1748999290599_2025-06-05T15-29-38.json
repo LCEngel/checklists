@@ -1,0 +1,110 @@
+{
+  "title": "NOME DO CHECKLIST",
+  "checklistDate": "03/06/2025, 22:08:10",
+  "items": [
+    {
+      "equipment": "NOME DO CHECKLIST",
+      "text": "DATA E HORA DO CHECKLIST",
+      "status": "",
+      "observation": ""
+    },
+    {
+      "equipment": "EQUIPAMENTO",
+      "text": "ITEM DE VERIFICAÇÃO",
+      "status": "STATUS",
+      "observation": "OBSERVAÇÃO"
+    },
+    {
+      "equipment": "NOME DO CHECKLIST",
+      "text": "03/06/2025, 19:31:42",
+      "status": "",
+      "observation": ""
+    },
+    {
+      "equipment": "EQUIPAMENTO",
+      "text": "ITEM DE VERIFICAÇÃO",
+      "status": "STATUS",
+      "observation": "COMENTÁRIO"
+    },
+    {
+      "equipment": "EQUIPAMENTO",
+      "text": "Verificar nível de óleo",
+      "status": "OK",
+      "observation": ""
+    },
+    {
+      "equipment": "EQUIPAMENTO",
+      "text": "Verificar ruídos anormais",
+      "status": "NC",
+      "observation": ""
+    },
+    {
+      "equipment": "EQUIPAMENTO",
+      "text": "Verificar freios",
+      "status": "OK",
+      "observation": ""
+    },
+    {
+      "equipment": "EQUIPAMENTO",
+      "text": "Verificar nível de bateria",
+      "status": "OK",
+      "observation": ""
+    },
+    {
+      "equipment": "EQUIPAMENTO",
+      "text": "Verificar nível de combustível",
+      "status": "NC",
+      "observation": ""
+    },
+    {
+      "equipment": "EQUIPAMENTO",
+      "text": "Testar funcionamento",
+      "status": "OK",
+      "observation": ""
+    },
+    {
+      "equipment": "EQUIPAMENTO",
+      "text": "Verificar cabos e conexões",
+      "status": "NC",
+      "observation": ""
+    },
+    {
+      "equipment": "EQUIPAMENTO",
+      "text": "Testar operação",
+      "status": "NC",
+      "observation": ""
+    },
+    {
+      "equipment": "Total de itens",
+      "text": "8",
+      "status": "",
+      "observation": ""
+    },
+    {
+      "equipment": "Itens OK",
+      "text": "4",
+      "status": "",
+      "observation": ""
+    },
+    {
+      "equipment": "Itens NC",
+      "text": "4",
+      "status": "",
+      "observation": ""
+    },
+    {
+      "equipment": "Itens N/A",
+      "text": "0",
+      "status": "",
+      "observation": ""
+    },
+    {
+      "equipment": "Concluído",
+      "text": "100%",
+      "status": "",
+      "observation": ""
+    }
+  ],
+  "date": "2025-06-04T01:08:10.598Z",
+  "saveDateTime": "03/06/2025, 22:08:10"
+}
