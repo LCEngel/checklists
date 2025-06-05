@@ -1,0 +1,48 @@
+{
+  "title": "Inspeção de Equipamentos",
+  "checklistDate": "05/06/2025, 15:13:07",
+  "items": [
+    {
+      "equipment": "FFDSFSFSDDSF",
+      "text": "FDSFDSF",
+      "status": "",
+      "observation": "",
+      "sapNumber": "",
+      "sapStatus": ""
+    },
+    {
+      "equipment": "DSFDSF",
+      "text": "FSDFDSFDSF",
+      "status": "",
+      "observation": "",
+      "sapNumber": "",
+      "sapStatus": ""
+    },
+    {
+      "equipment": "DSFDSFSD",
+      "text": "DSFSDF",
+      "status": "",
+      "observation": "",
+      "sapNumber": "",
+      "sapStatus": ""
+    },
+    {
+      "equipment": "FDSFDSF",
+      "text": "FDSFSD",
+      "status": "",
+      "observation": "",
+      "sapNumber": "",
+      "sapStatus": ""
+    },
+    {
+      "equipment": "FDSFSDFDSF",
+      "text": "DSFDSF",
+      "status": "",
+      "observation": "",
+      "sapNumber": "",
+      "sapStatus": ""
+    }
+  ],
+  "date": "2025-06-05T18:13:07.664Z",
+  "saveDateTime": "05/06/2025, 15:13:07"
+}
