@@ -524,7 +524,7 @@
         const GITHUB_CONFIG = {
             username: 'LCEngel',
             repo: 'checklists',
-            token: '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'
+            token: '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'
         };
 
         // Modelos de checklist padrão
